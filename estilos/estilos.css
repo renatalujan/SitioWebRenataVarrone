@@ -1,0 +1,20 @@
+.parrafoResaltado{
+    font-size: 24px;
+    padding: 48px;
+    border-radius: double 6px goldenrod;
+    background-color: rgb(95, 47, 47);
+    margin: 20px;
+    }
+
+    #parrafoEspecial{
+        background-color: rgb(125, 101, 64);
+        border-radius: 88px;
+        padding: 50px;
+    }   
+        #parrafoEspecial:hover{
+        background-color:blue;
+    }
+    p:hover{
+        text-decoration: underline;
+        transform: scale (105%);
+    }
